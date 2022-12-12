@@ -16,7 +16,7 @@
          <!-- /.login-logo -->
          <div class="card card-outline card-danger">
             <div class="card-header text-center">
-               <a href="index.html" class="brand-link">
+               <a href="index.php" class="brand-link">
                <img src="asset/img/logo.png" alt="DSMS Logo" width="200">
                </a>
             </div>

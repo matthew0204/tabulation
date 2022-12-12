@@ -39,7 +39,7 @@
                   </a>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" data-widget="fullscreen" href="../index.html">
+                  <a class="nav-link" data-widget="fullscreen" href="../index.php">
                   <i class="fas fa-sign-out-alt"></i>
                   </a>
                </li>
@@ -47,7 +47,7 @@
          </nav>
          <aside class="main-sidebar sidebar-light-primary" style="background-color: rgb(46,18,35);">
             <!-- Brand Logo -->
-            <a href="index.html" class="brand-link">
+            <a href="index.php" class="brand-link">
             <img src="../asset/img/logo.png" alt="DSMS Logo" width="200">
             </a>
             <div class="sidebar">
@@ -55,7 +55,7 @@
                   <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu"
                      data-accordion="false">
                      <li class="nav-item">
-                        <a href="index.html" class="nav-link">
+                        <a href="index.php" class="nav-link">
                            <img src="../asset/img/dashboard.png" width="30">
                            <p>
                               Dashboard
@@ -63,7 +63,7 @@
                         </a>
                      </li>
                      <li class="nav-item">
-                        <a href="contestant-profile.html" class="nav-link">
+                        <a href="judge-contestant-profile.php" class="nav-link">
                            <img src="../asset/img/contestant.png" width="30">
                            <p>
                               Contestants
@@ -71,7 +71,7 @@
                         </a>
                      </li>
                      <li class="nav-item">
-                        <a href="scores.html" class="nav-link">
+                        <a href="judge_score.php" class="nav-link">
                            <img src="../asset/img/score.png" width="30">
                            <p>
                               Scores
